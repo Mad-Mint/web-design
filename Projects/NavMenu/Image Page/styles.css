@@ -1,0 +1,94 @@
+@charset "utf-8";
+body div {
+    margin-left: 15%;
+    width: 70%;
+    background-color: #FFFFFF;
+}
+body {
+    background-color: #373737;
+    padding: 2%;
+}
+.bannerpic {
+}
+.bannerpic img {
+    width: 100%;
+    height: auto;
+}
+.bannerpic p img {
+
+}
+.bannerpic p {
+    text-align: center;
+    font-family: arial;
+    font-size: 24px;
+}
+
+
+
+h1   {
+    font-family: arial;
+    font-size: 50px;
+    padding: 2%;
+    text-align: center;
+
+}
+.floatpicright p {
+    font-family: arial;
+    font-size: 24px;
+
+}
+.floatpicmiddle p {
+    text-align: center;
+    font-family: arial;
+    font-size: 24px;
+}
+.floatpicleft p {
+    font-family: arial;
+    font-size: 24px;
+}
+body div footer {
+    text-align: center;
+    font-family: arial;
+}
+
+
+
+
+
+article {
+    clear: both;
+}
+
+.floatpicright p img {
+    width: 57%;
+    height: auto;
+    padding: 2%;
+    float: right;
+}
+
+.floatpicright {
+}
+.floatpicleft {
+}
+.floatpicleft p img {
+    width: 57%;
+    padding: 2%;
+    height: auto;
+}
+.floatpicmiddle {
+}
+.floatpicmiddle p {
+    text-align: center;
+	
+	
+}
+.floatpicmiddle p img {
+    width: 57%;
+    padding: 2%;
+    height: auto;
+}
+body div footer {
+    text-align: center;
+    font-family: arial;
+    font-size: 18px;
+}

@@ -1,0 +1,24 @@
+@charset "utf-8";
+#carouselExampleIndicators1 .carousel-inner {
+    height: 1080px;
+    width: auto;
+    text-align: center;
+    align-content: center;
+    text-height: 1000px;
+	}
+
+.carousel-item.active .carousel-caption h5 {
+    text-align: center;
+    -webkit-text-stroke: 4px;
+    -webkit-text-stroke-color: black;
+    font-family: arial;
+    font-size: 72px;
+
+}
+footer {
+	text-align:center;
+	color: #FFFFFF;
+}
+body {
+	background-color: #000000;
+}

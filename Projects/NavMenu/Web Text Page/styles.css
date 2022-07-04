@@ -1,0 +1,28 @@
+@charset "utf-8";
+body div {
+    background-color: #DCDBDB;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+body {
+    background-color: #292929;
+}
+
+div header h1 {
+    font-family: Arial;
+    color: #E8AD00;
+}
+
+section header h2 {
+    font-family: Arial;
+}
+div section article {
+    font-size: 18px;
+    color: #5E5E5E;
+}
+div section ul {
+    list-style-type: circle;
+}
+section footer  {
+    text-align: center;
+}
